@@ -20,6 +20,14 @@ div
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
+#link{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
 
 #email{
     float:right;
@@ -93,7 +101,7 @@ table
 td
 {
     padding: 2px;
-    border: 1px solid #E88741;
+    border: 1px solid #00e6d2;
     }
 
 #course-name
